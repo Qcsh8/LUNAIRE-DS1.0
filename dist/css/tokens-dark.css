@@ -367,3 +367,9 @@
     --white-50: rgba(41,43,44,0.5);
   }
 }
+
+/* ── Gradients (Dark) ── */
+[data-theme="dark"], .dark {
+  --gradient-progress: linear-gradient(to bottom, #b388eb 0%, #fb74a8 32%, #ff774a 51%);
+  --gradient-lunaire: linear-gradient(to bottom, #b388eb 0%, #fb74a8 49%, #ff774a 100%);
+}

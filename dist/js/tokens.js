@@ -1059,3 +1059,10 @@ export const typography = tokens.typography;
 export const effects = tokens.effects;
 
 export default tokens;
+
+export const gradients = {
+  "--gradient-progress": "linear-gradient(to bottom, #d4a8c7 0%, #afaabc 32%, #a8c4d4 51%)",
+  "--gradient-lunaire": "linear-gradient(to bottom, #d4a8c7 0%, #afaabc 49%, #a8c4d4 100%)",
+  "--gradient-progress-dark-mode": "linear-gradient(to bottom, #b388eb 0%, #fb74a8 32%, #ff774a 51%)",
+  "--gradient-amplifyhealth-dark-mode": "linear-gradient(to bottom, #b388eb 0%, #fb74a8 49%, #ff774a 100%)"
+};
