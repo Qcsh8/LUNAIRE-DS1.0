@@ -1,0 +1,846 @@
+{
+  "Mobile": {
+    "Sub-body": {
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Label": {
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 12.0,
+          "lineHeight": 16.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 12.0,
+          "lineHeight": 16.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 12.0,
+          "lineHeight": 16.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 4": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 22.0,
+          "lineHeight": 28.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 22.0,
+          "lineHeight": 28.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 22.0,
+          "lineHeight": 28.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 6": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 18.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 18.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 18.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Body": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Footnote": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 10.0,
+          "lineHeight": 12.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 10.0,
+          "lineHeight": 12.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 10.0,
+          "lineHeight": 12.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 3": {
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 32.0,
+          "lineHeight": 32.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 24.0,
+          "lineHeight": 32.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 24.0,
+          "lineHeight": 32.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 1": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 32.0,
+          "lineHeight": 40.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 32.0,
+          "lineHeight": 40.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 32.0,
+          "lineHeight": 40.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Link-button": {
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 5": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 20.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 20.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 20.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Link-button-small": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 2": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 28.0,
+          "lineHeight": 36.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 28.0,
+          "lineHeight": 36.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 28.0,
+          "lineHeight": 36.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    }
+  },
+  "Desktop": {
+    "Link-button": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 2": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 40.0,
+          "lineHeight": 48.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 40.0,
+          "lineHeight": 48.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 40.0,
+          "lineHeight": 48.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 5": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 24.0,
+          "lineHeight": 32.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 24.0,
+          "lineHeight": 32.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 24.0,
+          "lineHeight": 32.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Sub-body": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Label": {
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 12.0,
+          "lineHeight": 16.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 12.0,
+          "lineHeight": 16.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 12.0,
+          "lineHeight": 16.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Body": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 16.0,
+          "lineHeight": 24.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Footnote": {
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 10.0,
+          "lineHeight": 12.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 10.0,
+          "lineHeight": 12.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 10.0,
+          "lineHeight": 12.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Link-button-small": {
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 14.0,
+          "lineHeight": 20.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 6": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 20.0,
+          "lineHeight": 28.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 20.0,
+          "lineHeight": 28.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 20.0,
+          "lineHeight": 28.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 3": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 32.0,
+          "lineHeight": 40.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 32.0,
+          "lineHeight": 40.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 32.0,
+          "lineHeight": 40.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 1": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 48.0,
+          "lineHeight": 56.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 48.0,
+          "lineHeight": 56.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 48.0,
+          "lineHeight": 56.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    },
+    "Header 4": {
+      "Regular": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 400,
+          "fontSize": 28.0,
+          "lineHeight": 36.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 500,
+          "fontSize": 28.0,
+          "lineHeight": 36.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      },
+      "Bold": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "Open Sans",
+          "fontWeight": 700,
+          "fontSize": 28.0,
+          "lineHeight": 36.0,
+          "letterSpacing": 0.0,
+          "textCase": "ORIGINAL"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "viewport": {
+    "Variable spacing/spacing-md": {
+      "Tablet landscape": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:41d9841b74cd4cb00dc826e76c872940e0de05ec/27386:23"
+      },
+      "Desktop": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:41d9841b74cd4cb00dc826e76c872940e0de05ec/27386:23"
+      },
+      "Tablet portrait": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:41d9841b74cd4cb00dc826e76c872940e0de05ec/27386:23"
+      },
+      "Mobile": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:41d9841b74cd4cb00dc826e76c872940e0de05ec/27386:23"
+      }
+    },
+    "Components/Page level message/size-width-min": {
+      "Tablet landscape": 564,
+      "Desktop": 564,
+      "Tablet portrait": 564,
+      "Mobile": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:556c5c5422646bfc30db4dfed65edc8de80fbc82/27287:61"
+      }
+    }
+  }
+}

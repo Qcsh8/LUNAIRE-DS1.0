@@ -1,0 +1,28 @@
+{
+  "name": "@lunaire/tokens",
+  "version": "1.0.0",
+  "description": "Lunaire Design System — Design tokens extracted from Figma",
+  "main": "dist/js/tokens.js",
+  "types": "dist/js/tokens.d.ts",
+  "files": [
+    "tokens/",
+    "dist/",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": ["design-system", "tokens", "lunaire", "figma"],
+  "license": "MIT",
+  "exports": {
+    ".": "./dist/js/tokens.js",
+    "./css": "./dist/css/tokens.css",
+    "./css/dark": "./dist/css/tokens-dark.css",
+    "./css/typography": "./dist/css/typography.css",
+    "./scss": "./dist/scss/_variables.scss",
+    "./tokens/colors": "./tokens/colors.json",
+    "./tokens/typography": "./tokens/typography.json",
+    "./tokens/spacing": "./tokens/spacing.json",
+    "./tokens/effects": "./tokens/effects.json"
+  }
+}

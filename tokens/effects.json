@@ -1,0 +1,117 @@
+{
+  "effects": {
+    "Left frozen row shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "2.0px",
+          "y": "0.0px",
+          "blur": "8.0px",
+          "spread": "0px",
+          "color": "rgba(0,0,0,0.08)"
+        }
+      ]
+    },
+    "Tap nav shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "0.0px",
+          "y": "3.0px",
+          "blur": "7.0px",
+          "spread": "0px",
+          "color": "rgba(0,0,0,0.06)"
+        }
+      ]
+    },
+    "Table Row Shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "-2.0px",
+          "y": "0.0px",
+          "blur": "8.0px",
+          "spread": "0px",
+          "color": "rgba(0,0,0,0.08)"
+        }
+      ]
+    },
+    "Indicator Shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "0.0px",
+          "y": "3.0px",
+          "blur": "7.199999809265137px",
+          "spread": "1.0px",
+          "color": "rgba(0,0,0,0.15)"
+        }
+      ]
+    },
+    "Background Blur": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "background-blur",
+          "radius": "16.0px"
+        }
+      ]
+    },
+    "Right frozen row shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "-2.0px",
+          "y": "0.0px",
+          "blur": "8.0px",
+          "spread": "0px",
+          "color": "rgba(0,0,0,0.08)"
+        }
+      ]
+    },
+    "Card shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "0.0px",
+          "y": "3.0px",
+          "blur": "12.0px",
+          "spread": "0px",
+          "color": "rgba(0,0,0,0.1)"
+        }
+      ]
+    },
+    "Glass Shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "0.0px",
+          "y": "3.0px",
+          "blur": "12.0px",
+          "spread": "0px",
+          "color": "rgba(0,0,0,0.1)"
+        }
+      ]
+    },
+    "Modal card shadow": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "type": "drop-shadow",
+          "x": "4.0px",
+          "y": "13.0px",
+          "blur": "40.0px",
+          "spread": "50.0px",
+          "color": "rgba(0,0,0,0.1)"
+        }
+      ]
+    }
+  }
+}
